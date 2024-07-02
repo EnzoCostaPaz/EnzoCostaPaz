@@ -1,5 +1,5 @@
 ## Hey👋, How you doing? 
-### My name is Enzo but you also can call me Zen
+### My name is Enzo Costa Paz but you also can call me Zen👍
 ##
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bookman+Old+Style&duration=3500&pause=1000&color=F7F7F7&background=AC992200&random=false&width=435&lines=Hey%2C+Thats+my+Github+Profile+%F0%9F%91%8B;Take+a+look+and+enjoy+%F0%9F%91%8B%F0%9F%99%82" alt="Typing SVG"widht = "64px" height = "64px" /></a>
