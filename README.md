@@ -15,22 +15,32 @@
 <a href="https://emoji.gg/emoji/56784-yellow"><img src="https://cdn3.emoji.gg/emojis/56784-yellow.gif" width="64px" height="64px" alt="yellow"></a>
 </div>
  
-
-##
-  <a href="https://emoji.gg/emoji/1878-blobcat-code"><img src="https://cdn3.emoji.gg/emojis/1878-blobcat-code.gif" width="50px" height="50px" alt="blobcat_code"></a> 
   
-I’m currently learning:
+## I’m currently learning🖋️:
+<img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=%23777BB4&labelColor=%23000000"/><img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23ffffff&labelColor=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=%23ffffff&labelColor=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=%237F52FF&labelColor=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/MariaDB-%23003545?style=for-the-badge&logo=kotlin&logoColor=%23003545&labelColor=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/c%2B%2B-%23A8B9CC?style=for-the-badge&logo=cplusplus&logoColor=%23A8B9CC&labelColor=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/FireBase-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=%23DD2C00&labelColor=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/jetpackcompose-%234285F4?style=for-the-badge&logo=react&logoColor=%234285F4&labelColor=%23000000">
+
+## 
+<div align="center">
+<a href="https://emoji.gg/emoji/56784-yellow"><img src="https://cdn3.emoji.gg/emojis/56784-yellow.gif" width="64px" height="64px" alt="yellow"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&pause=1000&color=F7D913&center=true&width=435&lines=+Life+is+like+a+garden;make+it+beutiful" alt="Typing SVG" /></a>
+<a href="https://emoji.gg/emoji/56784-yellow"><img src="https://cdn3.emoji.gg/emojis/56784-yellow.gif" width="64px" height="64px" alt="yellow"></a>
+
+ </div>
+
+## Projects⚙️
+
+<a href="https://github.com/gustavorods/2023_odonto_kids" text-decoration=none>OdontoKids: </a> 
 <br>
-<img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=%23777BB4&labelColor=%23000000"/>
-<img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23ffffff&labelColor=%23000000">
-HTML<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" widht = "30px" height = "30px"/>, CSS<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" widht = "30px" height = "30px"/> , Javascript<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" widht = "30px" height = "30px" />, Java<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  widht = "30px" height = "30px"/> and Kotlin<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"  widht = "30px" height = "30px"/>  </b>
-- <a href="https://emoji.gg/emoji/5138-fire"><img src="https://cdn3.emoji.gg/emojis/5138-fire.gif" width="48px" height="48px" alt="fire"></a> Fun fact: "Life is like a garden, make it beutiful"
-- <a href="https://emoji.gg/emoji/6919-100animated"><img src="https://cdn3.emoji.gg/emojis/6919-100animated.gif" width="48px" height="48px" alt="100animated"></a> I'm looking to improve and learn every day
-  ##
-  <div align="center">
-    <a href="https://emoji.gg/emoji/91428-pedro-racoon"><img src="https://cdn3.emoji.gg/emojis/91428-pedro-racoon.gif" width="200px" height="200px" alt="pedro_racoon"></a>
-  </div>
-   
+develop a website and a <a href = "https://github.com/gustavorods/2024_odontoKids_mobile.git">mobile</a> app for a fictitious pediatric dental clinic
+<br><br>
+<a href="https://github.com/EnzoCostaPaz/LifeisMusic.git">LifeisMusic: </a>
+<br>
+a CRUD simulating a music school where the user can access tables and interact with then
+<br><br>
+<a href="https://github.com/EnzoCostaPaz/Livraria-BD.git">BookSystem</a>
+<br>
+a CRUD simulating a bookstore where the user can access tables and interact with then
+
    ## Statics 🗂️
   <div align="center>
 <a href="https://github.com/EnzoCostaPaz">
