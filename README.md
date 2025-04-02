@@ -30,15 +30,15 @@
 
 ## Projects⚙️
 
-<a href="https://github.com/gustavorods/2023_odonto_kids" text-decoration=none>OdontoKids: </a> 
+<a href="https://github.com/gustavorods/2023_odonto_kids" text-decoration=none>OdontoKids: </a>🦷
 <br>
 develop a website and a <a href = "https://github.com/gustavorods/2024_odontoKids_mobile.git">mobile</a> app for a fictitious pediatric dental clinic
 <br><br>
-<a href="https://github.com/EnzoCostaPaz/LifeisMusic.git">LifeisMusic: </a>
+<a href="https://github.com/EnzoCostaPaz/LifeisMusic.git">LifeisMusic: </a>🎶
 <br>
 a CRUD simulating a music school where the user can access tables and interact with then
 <br><br>
-<a href="https://github.com/EnzoCostaPaz/Livraria-BD.git">BookSystem</a>
+<a href="https://github.com/EnzoCostaPaz/Livraria-BD.git">BookSystem</a>📚
 <br>
 a CRUD simulating a bookstore where the user can access tables and interact with then
 
