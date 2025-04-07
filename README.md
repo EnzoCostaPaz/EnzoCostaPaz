@@ -49,8 +49,3 @@ a CRUD simulating a bookstore where the user can access tables and interact with
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzoCostaPaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
- ##
- 
- <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bookman+Old+Style&duration=3500&pause=1000&color=F7F7F7&background=AC992200&random=false&width=435&lines=Thanks+for+watching+this+far%E2%9C%8C%EF%B8%8F;Have+a+nice+day%F0%9F%98%8E" alt="Typing SVG"widht = "64px" height = "64px" /></a>
-</div>
