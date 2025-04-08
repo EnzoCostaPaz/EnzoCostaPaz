@@ -20,14 +20,6 @@
 <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=%23777BB4&labelColor=%23000000"/><img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23ffffff&labelColor=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=%23ffffff&labelColor=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=%237F52FF&labelColor=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/mariadb-%23003545?style=for-the-badge&logo=mariadb&logoColor=%23003545&labelColor=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/c%2B%2B-%23A8B9CC?style=for-the-badge&logo=cplusplus&logoColor=%23A8B9CC&labelColor=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/FireBase-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=%23DD2C00&labelColor=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/jetpackcompose-%234285F4?style=for-the-badge&logo=jetpackcompose&logoColor=%234285F4&labelColor=%23000000">
 
 
-## 
-<div align="center">
-<a href="https://emoji.gg/emoji/56784-yellow"><img src="https://cdn3.emoji.gg/emojis/56784-yellow.gif" width="64px" height="64px" alt="yellow"></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&pause=1000&color=F7D913&center=true&width=435&lines=+Life+is+like+a+garden;make+it+beutiful" alt="Typing SVG" /></a>
-<a href="https://emoji.gg/emoji/56784-yellow"><img src="https://cdn3.emoji.gg/emojis/56784-yellow.gif" width="64px" height="64px" alt="yellow"></a>
-
- </div>
-
 ## Projects⚙️
 
 <a href="https://github.com/gustavorods/2023_odonto_kids" text-decoration=none>OdontoKids: </a>🦷
@@ -48,4 +40,13 @@ a CRUD simulating a bookstore where the user can access tables and interact with
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoCostaPaz&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzoCostaPaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+##
+<div align="center">
+<a href="https://emoji.gg/emoji/56784-yellow"><img src="https://cdn3.emoji.gg/emojis/56784-yellow.gif" width="64px" height="64px" alt="yellow"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&pause=1000&color=F7D913&center=true&width=435&lines=+Life+is+like+a+garden;make+it+beutiful" alt="Typing SVG" /></a>
+<a href="https://emoji.gg/emoji/56784-yellow"><img src="https://cdn3.emoji.gg/emojis/56784-yellow.gif" width="64px" height="64px" alt="yellow"></a>
+
+ </div>
+
  
