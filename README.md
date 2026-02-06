@@ -34,13 +34,6 @@ a CRUD simulating a music school where the user can access tables and interact w
 <br>
 a CRUD simulating a bookstore where the user can access tables and interact with then
 
-   ## Statics 🗂️
-  <div align="center>
-<a href="https://github.com/EnzoCostaPaz">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoCostaPaz&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzoCostaPaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ##
 <div align="center">
 <a href="https://emoji.gg/emoji/56784-yellow"><img src="https://cdn3.emoji.gg/emojis/56784-yellow.gif" width="64px" height="64px" alt="yellow"></a>
