@@ -16,9 +16,8 @@
 </div>
  
   
-## I’m currently learning🖋️:
-<img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=%23777BB4&labelColor=%23000000"/><img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23ffffff&labelColor=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=%23ffffff&labelColor=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=%237F52FF&labelColor=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/mariadb-%23003545?style=for-the-badge&logo=mariadb&logoColor=%23003545&labelColor=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/c%2B%2B-%23A8B9CC?style=for-the-badge&logo=cplusplus&logoColor=%23A8B9CC&labelColor=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/FireBase-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=%23DD2C00&labelColor=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=%23000000"><img alt="Static Badge" src="https://img.shields.io/badge/jetpackcompose-%234285F4?style=for-the-badge&logo=jetpackcompose&logoColor=%234285F4&labelColor=%23000000">
-
+## Skills🖋️:
+![Static Badge](https://img.shields.io/badge/html5%20-%20%23E34F26?style=for-the-badge&logo=html5&labelColor=black)![Static Badge](https://img.shields.io/badge/css%20-%20%23663399?style=for-the-badge&logo=css&labelColor=black)![Static Badge](https://img.shields.io/badge/typescript%20-%20%233178C6?style=for-the-badge&logo=typescript&labelColor=black)![Static Badge](https://img.shields.io/badge/reactJS%20-%20%2361DAFB?style=for-the-badge&logo=react&labelColor=black)![Static Badge](https://img.shields.io/badge/mysql%20-%20%234479A1?style=for-the-badge&logo=mysql&labelColor=black)![Static Badge](https://img.shields.io/badge/php%20-%20%23777BB4?style=for-the-badge&logo=php&labelColor=black)![Static Badge](https://img.shields.io/badge/git%20-%20%23F05032?style=for-the-badge&logo=git&labelColor=black)![Static Badge](https://img.shields.io/badge/java%20-%20%23F05032?style=for-the-badge&logo=coffeescript&labelColor=black)
 
 ## Projects⚙️
 
@@ -30,9 +29,9 @@ develop a website and a <a href = "https://github.com/gustavorods/2024_odontoKid
 <br>
 a CRUD simulating a music school where the user can access tables and interact with then
 <br><br>
-<a href="https://github.com/EnzoCostaPaz/Livraria-BD.git">BookSystem</a>📚
+<a href="https://github.com/Agro-G-E-S-F/Agro-G.E.S.F.git">AGRO G.E.S.F</a>📸🍃
 <br>
-a CRUD simulating a bookstore where the user can access tables and interact with then
+a project that helps small farmers identifying signs of pests and diseases in their farms
 
 ##
 <div align="center">
