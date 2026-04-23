@@ -19,6 +19,12 @@
 ## Skills🖋️:
 ![Static Badge](https://img.shields.io/badge/html5%20-%20%23E34F26?style=for-the-badge&logo=html5&labelColor=black)![Static Badge](https://img.shields.io/badge/css%20-%20%23663399?style=for-the-badge&logo=css&labelColor=black)![Static Badge](https://img.shields.io/badge/typescript%20-%20%233178C6?style=for-the-badge&logo=typescript&labelColor=black)![Static Badge](https://img.shields.io/badge/reactJS%20-%20%2361DAFB?style=for-the-badge&logo=react&labelColor=black)![Static Badge](https://img.shields.io/badge/mysql%20-%20%234479A1?style=for-the-badge&logo=mysql&labelColor=black)![Static Badge](https://img.shields.io/badge/php%20-%20%23777BB4?style=for-the-badge&logo=php&labelColor=black)![Static Badge](https://img.shields.io/badge/git%20-%20%23F05032?style=for-the-badge&logo=git&labelColor=black)![Static Badge](https://img.shields.io/badge/java%20-%20%23F05032?style=for-the-badge&logo=coffeescript&labelColor=black)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoCostaPaz)](https://github.com/anuraghazra/github-readme-stats) 
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoCostaPaz&layout=compact)
+
+
+
 ## Projects⚙️
 
 <a href="https://github.com/gustavorods/2023_odonto_kids" text-decoration=none>OdontoKids: </a>🦷
